@@ -53,6 +53,12 @@ If the game crashes or doesn’t launch:
 - Offline assistant developed for educational and accessibility purposes  
 - This repo does not distribute the mod itself — link to official source provided inside the tool
 
+##📄 Short Description
+Offline setup guide for unlocking high framerates in Elden Ring using UnlockTheFps.dll. No online tools or game patching required.
+
+##🧩 SEO Meta Description
+Offline FPS unlocker for Elden Ring using UnlockTheFps.dll. Simple setup, no patching needed.
+
 ---
 
 > ✅ Safe for GitHub. No game binaries or copyrighted content.
